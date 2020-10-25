@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "dependencies": {
+    "vue": "3.0.2"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-dotenv": "^2.0.4",
+    "@snowpack/plugin-vue": "^2.2.4",
+    "snowpack": "^2.15.1"
+  }
+}
